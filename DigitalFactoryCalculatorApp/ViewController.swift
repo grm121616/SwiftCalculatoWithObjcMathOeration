@@ -438,6 +438,7 @@ class ViewController: UIViewController {
     @objc func equal(sender: UIButton!) {
         equalOperation()
         isOperationTap = false
+        runningString = ""
     }
     
     func equalOperation() {
