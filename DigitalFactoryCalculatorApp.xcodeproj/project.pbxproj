@@ -64,25 +64,17 @@
 			children = (
 				477F9DEE254B97D90029B4F8 /* AppDelegate.swift */,
 				477F9DF0254B97D90029B4F8 /* SceneDelegate.swift */,
-				477F9E0D254E5FFB0029B4F8 /* Extension */,
 				477F9DF2254B97D90029B4F8 /* ViewController.swift */,
 				477F9E08254D52240029B4F8 /* Operation.swift */,
-				477F9E0C254E5FE90029B4F8 /* Objc */,
+				477F9E0D254E5FFB0029B4F8 /* Extension */,
+				477F9E04254C92720029B4F8 /* DigitalFactoryCalculatorApp-Bridging-Header.h */,
+				477F9E07254C97840029B4F8 /* OperationViewModel.h */,
+				477F9E05254C92720029B4F8 /* OperationViewModel.m */,
 				477F9DF7254B97DC0029B4F8 /* Assets.xcassets */,
 				477F9DF9254B97DC0029B4F8 /* LaunchScreen.storyboard */,
 				477F9DFC254B97DC0029B4F8 /* Info.plist */,
 			);
 			path = DigitalFactoryCalculatorApp;
-			sourceTree = "<group>";
-		};
-		477F9E0C254E5FE90029B4F8 /* Objc */ = {
-			isa = PBXGroup;
-			children = (
-				477F9E07254C97840029B4F8 /* OperationViewModel.h */,
-				477F9E05254C92720029B4F8 /* OperationViewModel.m */,
-				477F9E04254C92720029B4F8 /* DigitalFactoryCalculatorApp-Bridging-Header.h */,
-			);
-			path = Objc;
 			sourceTree = "<group>";
 		};
 		477F9E0D254E5FFB0029B4F8 /* Extension */ = {
